@@ -1,10 +1,12 @@
-# QuickProjects
-Projetos rápidos
+# Web Quick Projects
 
-- [ ] Cronômetro
-- [ ] Calculadora
-- [ ] Jogo das cores
-- [ ] Jogo da velha
-- [ ] Lista de tarefas
-- [ ] Encurtador de link
+- [Projetos](#projetos)
+  - [Cronômetro](#cronômetro)
+  - [Calculadora](#calculadora)
+  - [Jogo da velha](#jogo-da-velha)
 
+# Projetos
+
+## Cronômetro
+## Calculadora
+## Jogo da velha
